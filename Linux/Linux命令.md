@@ -15,3 +15,6 @@
 （rm后敲入一个空格 再敲入要删除的文件） 
   
 <li> clear ---  清屏</li>  
+
+  Linux终端命令格式  
+command [-options] [parameter]  
