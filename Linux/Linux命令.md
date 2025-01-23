@@ -16,5 +16,8 @@
   
 <li> clear ---  清屏</li>  
 
+
+    
   Linux终端命令格式  
-command [-options] [parameter]  
+<code>command [-options] [parameter]</code>
+
